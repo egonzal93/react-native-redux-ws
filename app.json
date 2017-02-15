@@ -1,4 +1,5 @@
 {
   "name": "githubbrowser",
-  "displayName": "githubbrowser"
+  "displayName": "githubbrowser",
+  "test": "test123"
 }
